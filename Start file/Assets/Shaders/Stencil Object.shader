@@ -12,6 +12,7 @@
 		Stencil {
 			Ref 1
 			Comp equal
+			Pass replace
 		}
 
 		// Blend SrcAlpha OneMinusSrcAlpha
