@@ -13,7 +13,7 @@
 
 		Stencil {
 			Ref 1
-			Pass replace
+			Pass Replace
 		}
 
 		// Blend SrcAlpha OneMinusSrcAlpha
